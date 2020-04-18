@@ -1,0 +1,23 @@
+{
+  "name": "renanbitencourt.github.io",
+  "version": "1.0.0",
+  "description": "My Resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renanbitencourt/renanbitencourt.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renanbitencourt/renanbitencourt.github.io/issues"
+  },
+  "homepage": "https://github.com/renanbitencourt/renanbitencourt.github.io#readme",
+  "dependencies": {
+    "animate.css": "^3.7.2",
+    "mdbootstrap": "^4.16.0"
+  }
+}
